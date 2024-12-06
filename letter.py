@@ -1,0 +1,5 @@
+print("December 6, 2024")
+print("I am feeling frustrated with the lack of progress on my project. I feel like I am not making any progress and I am not sure what to do. I need help.")
+print("I want to accomplish understanding data structures and algorithms so that I can pass technical interviews to land a job.")
+print("Dear future self, I know you have the willpower and strength to march forward with this goal. You are capable of not giving up nor giving in.")
+print("🐹")
